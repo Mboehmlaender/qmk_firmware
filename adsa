@@ -1,0 +1,66 @@
+* [32mmaster                                                      [m eaa1d77960 submodules
+  [31mremotes/origin/HEAD                                         [m -> origin/master
+  [31mremotes/origin/master                                       [m eaa1d77960 submodules
+  [31mremotes/upstream/arm-dac-work                               [m f52faeb5d6 add sample and wavetable examples, parsers for both
+  [31mremotes/upstream/audio_out                                  [m ad982e39d6 implement new features for arm
+  [31mremotes/upstream/better_chibios_wait                        [m 699e6b229b Update tmk_core/common/wait.h
+  [31mremotes/upstream/changelog                                  [m 4cfe36d6d0 Generate an initial changelog and a script to generate it
+  [31mremotes/upstream/cmake-experiments                          [m 92005dee35 using data/mappings for processing
+  [31mremotes/upstream/connection-keycodes                        [m 4bce7fef31 Comments.
+  [31mremotes/upstream/deploy-toolchains                          [m 33f5e67408 Download relevant toolchain.
+  [31mremotes/upstream/deprecate_default_folder                   [m a5fd4fd83e Resolve alias within Makefile
+  [31mremotes/upstream/develop                                    [m daf4746da7 Merge remote-tracking branch 'origin/master' into develop
+  [31mremotes/upstream/docusaurus                                 [m 711e8b968b Merge branch 'docusaurus' of github.com:qmk/qmk_firmware into docusaurus
+  [31mremotes/upstream/edez2                                      [m 7e839c9ba6 rgb hooked-up
+  [31mremotes/upstream/eeprom_update                              [m 4f71243453 line endings
+  [31mremotes/upstream/encoder_matrix                             [m 9e64d5f6c2 add encoder matrix functionality
+  [31mremotes/upstream/fix/just_return_false                      [m 832661f6b0 return false to stall correctly
+  [31mremotes/upstream/gb_port                                    [m 4a42e10ccd add gb port
+  [31mremotes/upstream/gc_switch                                  [m d2123f3c07 remove some outdated changes
+  [31mremotes/upstream/generate_api_layouts                       [m 7edfac5f60 Publish community layout data to API
+  [31mremotes/upstream/gh-pages                                   [m aa41d95955 Deploying to gh-pages from @ qmk/qmk_firmware@f0eb2460d9e5b6e71ff76da3f341795ac53e1ec2 🚀
+  [31mremotes/upstream/hidlamp                                    [m b496e62bdc Stub docs
+  [31mremotes/upstream/joystick_fixes                             [m 1814a34de4 Fix joystick initialization
+  [31mremotes/upstream/json_audio                                 [m c13ce5479c wip
+  [31mremotes/upstream/json_custom_keycodes                       [m 9eaee65ac3 make custom keycodes actually work
+  [31mremotes/upstream/keyboard_json_misc4                        [m 0b88b0969b Migrate build target markers to keyboard.json
+  [31mremotes/upstream/keyboard_overrides                         [m 4821b3c3a1 support config as an alias of keyboard_overrides
+  [31mremotes/upstream/kle2json_hyper                             [m 69e5e15ccc use unix lineendings even on windows
+  [31mremotes/upstream/led_matrix_direct                          [m f8896d8b92 Directly connected LED Matrix support.
+  [31mremotes/upstream/lint_blank_files                           [m d1d1dbcaa6 Extend lint to reject 'blank' files
+  [31mremotes/upstream/list_maintainers                           [m 295cb5c60a fix stacktrace
+  [31mremotes/upstream/make_cli_parsing                           [m a380937f1f wip
+  [31mremotes/upstream/master                                     [m 3c324cb5e6 [Keyboard] Add Binepad BNK8 keyboard (#24598)
+  [31mremotes/upstream/more_dd_eeprom                             [m 668c29ca52 Extend available EEPROM driver config
+  [31mremotes/upstream/muon_light                                 [m 47c27bb6b9 Merge pull request #3264 from fredizzimo/multimatrix
+  [31mremotes/upstream/muon_light_dc                              [m ec0f9db8ad separate commands, m/s updates
+  [31mremotes/upstream/peasy                                      [m 631cd6bfb0 mess around with the length to fix pitches
+  [31mremotes/upstream/peb                                        [m 71436db957 rgb working, configd
+  [31mremotes/upstream/planck-ez-a5-high                          [m fbb056c502 make a5 high when not in use
+  [31mremotes/upstream/planck_ez_wdg                              [m c012d715bf add watchdog timer to planck ez
+  [31mremotes/upstream/planck_ez_with_5372                        [m 9c0137f954 correct rgb config
+  [31mremotes/upstream/planck_light_rev2                          [m a6afb16c90 fix assembly errors with hal
+  [31mremotes/upstream/planck_thk                                 [m 21c2324c3e Merge branch 'master' into planck_thk
+  [31mremotes/upstream/post_sat75_updates                         [m 9df23c32fa Satisfaction75 post merge updates
+  [31mremotes/upstream/potentiometer                              [m 929da00c2f Initial potentiometer support
+  [31mremotes/upstream/pre-develop-merge-nov20                    [m 9b851ea9c2 Merge point for 2020 Nov 28 Breaking Change
+  [31mremotes/upstream/python_optimizations                       [m e293bf243d refactor doctor.py into a directory
+  [31mremotes/upstream/qmk_compile_build_keyboard                 [m b8f6536b29 Rework `qmk compile` to bypass `Makefile`. Add new --filter option.
+  [31mremotes/upstream/qmk_compile_improvements                   [m 81b17125eb fix after rebase
+  [31mremotes/upstream/qwiic_hub                                  [m c8e29bc7f1 working led via A3
+  [31mremotes/upstream/qwiic_hud                                  [m 4582dfb103 clean-up
+  [31mremotes/upstream/rando_migrate1                             [m d29945dc2c Migrate content where only parent info.json exists
+  [31mremotes/upstream/refactor_process_record_kb_user            [m 8b4d28f6fb Fix omnikeyish
+  [31mremotes/upstream/revert-17693-fix/pmw33xx-correct-angle-tune[m cc7444f520 Revert "Use correct angle tune range of +/-30 on PMW33XX (#17693)"
+  [31mremotes/upstream/rgb7seg                                    [m 471722f495 wip
+  [31mremotes/upstream/riot                                       [m daf4746da7 Merge remote-tracking branch 'origin/master' into develop
+  [31mremotes/upstream/rm_solid_color                             [m 46e91a557b Remove 'solid'/'none' from animation list
+  [31mremotes/upstream/subatomic                                  [m 852d94f4e6 add keys
+  [31mremotes/upstream/subatomic_encoders                         [m 22789a4409 Update keyboards/subatomic/config.h
+  [31mremotes/upstream/subvendor_ids                              [m 522876dc5a Update subvendor_ids.md
+  [31mremotes/upstream/titmlb                                     [m 0a7efccdc6 update rgb config
+  [31mremotes/upstream/unorthodox                                 [m 20e27feb7d Initial unorthodox support
+  [31mremotes/upstream/venv-script                                [m 855b234813 venv helper
+  [31mremotes/upstream/xap                                        [m 2c6a5ab16b Merge remote-tracking branch 'origin/develop' into xap
+  [31mremotes/upstream/xmega_support                              [m ea948a1f2c trying out some different stuff
+  [31mremotes/upstream/zvecr-patch-2                              [m ec7a9896db Default STM32G431 back to wear_leveling EFL driver
